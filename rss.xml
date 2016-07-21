@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cogwork Media]]></title>
         <description><![CDATA[Cogwork Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cogwork-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 17:56:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 18:05:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cogwork-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Cogwork Media - Welcome to the new site for gaming apps. I am an indie developer trying to create fun games for all part time.</p>]]></description>
-            <link>undefinedcogwork-media-welcome-to-the-new-site-for-gaming-apps-i-a/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b878dfe-ad52-4377-9be0-77350d7edca3.png">]]></description>
+            <link>https://thegrid.ai/cogwork-media/cogwork-media-welcome-to-the-new-site-for-gaming-apps-i-a/index.html</link>
             <guid isPermaLink="false">12fba697-8c65-45f0-a7e0-12693d9ed99c</guid>
-            <pubDate>Thu, 21 Jul 2016 17:56:37 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2016 18:05:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
