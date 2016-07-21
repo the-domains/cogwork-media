@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cogwork Media]]></title>
+        <description><![CDATA[Cogwork Media]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jul 2016 17:56:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Cogwork Media - Welcome to the new site for gaming apps. I am an indie developer trying to create fun games for all part time.</p>]]></description>
+            <link>undefinedcogwork-media-welcome-to-the-new-site-for-gaming-apps-i-a/index.html</link>
+            <guid isPermaLink="false">12fba697-8c65-45f0-a7e0-12693d9ed99c</guid>
+            <pubDate>Thu, 21 Jul 2016 17:56:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
