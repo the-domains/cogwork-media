@@ -1,6 +1,6 @@
 name: Cogwork Media
 favicon: null
-layout_spectrum: 0.3574957672972232
+layout_spectrum: 0
 typography_spectrum: 0.39292
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#bdcbd4'
+    - '#4d4d4d'
+    - '#ef4444'
+    - '#f6ae50'
   brandStrength: 0.6841915857512504
   lightness: 1
-  saturation: 0.9566114258486778
-  rhythmicContrast: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0
 purpose: []
