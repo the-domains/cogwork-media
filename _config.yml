@@ -1,20 +1,4 @@
-name: Cogwork Media
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.39292
-title: Cogwork Media
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,25 @@ color:
   lightness: 1
   saturation: 0.625
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Cogwork Media
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 12fba697-8c65-45f0-a7e0-12693d9ed99c
+    url: 2016-07-21-cogwork-media-welcome-to-the-new-site-for-gaming-apps-i-a.html
+    name: Home
+    type: content
+favicon: null
+title: Cogwork Media
 purpose: []
