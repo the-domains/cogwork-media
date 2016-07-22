@@ -7,15 +7,15 @@ keywords: []
 description: >-
   Welcome to the new site for gaming apps. I am an indie developer trying to
   create fun games for all part time.
-datePublished: '2016-07-21T18:11:18.286Z'
-dateModified: '2016-07-21T18:10:59.518Z'
+datePublished: '2016-07-22T18:59:00.718Z'
+dateModified: '2016-07-22T18:59:00.117Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-21-cogwork-media-welcome-to-the-new-site-for-gaming-apps-i-a.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: cogwork-media-welcome-to-the-new-site-for-gaming-apps-i-a/index.html
 _type: Article
 
