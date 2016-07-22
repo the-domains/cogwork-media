@@ -24,11 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - id: 12fba697-8c65-45f0-a7e0-12693d9ed99c
-    url: 2016-07-21-cogwork-media-welcome-to-the-new-site-for-gaming-apps-i-a.html
-    name: Home
-    type: content
+navigation: []
 favicon: null
 title: Cogwork Media
 purpose: []
